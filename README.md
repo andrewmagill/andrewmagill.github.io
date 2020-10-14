@@ -1,1 +1,2 @@
-# Gateways 2020 Presentation - Geoweaver
+# Geoweaver
+### Gateways 2020 Presentation
