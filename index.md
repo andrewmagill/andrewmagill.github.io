@@ -76,7 +76,7 @@
           <ol>
             <li>What is Geoweaver?</li>
             <li>How does it work?</li>
-            <li>What makes Geoweaver unqiue?</li>
+            <li>What makes Geoweaver unique?</li>
             <li>Future work</li>
             <li>Acknowledgments</li>
             <li>Questions</li>
@@ -92,7 +92,7 @@
             <img style="max-height: 500px;" alt="Geoweaver screenshot" src="./imgs/geoweaver_hero.png" />
             <p>
               <a href="https://github.com/delapuente/pangolink" target="_blank">Geoweaver</a>
-            is a web base plaform that enables you to manage your deep learning workflows and provenance across distributed resources.</a>
+            is a web based plaform that enables you to manage deep learning workflows with provenance across distributed resources.</a>
             </p>
           </section>
 
@@ -106,7 +106,7 @@
           <section>
             <video style="max-height: 550px;" data-autoplay src="video/create_ssh_host.mp4"></video>
             <p>
-              In Geoweaver, hosts are the resources where we run our processes. Here we are registering a machine that we connect to through SSH.
+              In Geoweaver, hosts are the resources where we run our processes. Here, we are registering a machine that we connect to through SSH.
             </p>
           </section>
 
@@ -120,7 +120,7 @@
           <section>
             <video style="max-height: 550px;" data-autoplay src="video/create_bash_process_4.mp4"></video>
             <p>
-            We can add a variety of different types of processes, here we are adding a bash script that will download imagery prior to processing.
+            We can add a variety of different types of processes, here we add a bash script that will download imagery prior to processing.
             </p>
           </section>
 
@@ -135,14 +135,14 @@
           <section>
             <video style="max-height: 550px;" data-autoplay src="video/process_results_and_file_listing.mp4"></video>
             <p>
-            Geoweaver stores a detailed history of every process we have run, we can view the logs, and examine outputs on the server.
+            Geoweaver stores a detailed history of every process we run. We can view the logs, and examine outputs on the server.
             </p>
           </section>
 
           <section>
             <video style="max-height: 550px;" data-autoplay src="video/create_workflow.mp4"></video>
             <p>
-            Processes can be linked together to form workflows, so that we can run our processes in parallel or sequentially across separate resources, and manage it all in one place.
+            Processes can be linked together to form workflows, so that we can run our processes in parallel, or sequentially, across separate resources, and manage it all in one place.
             </p>
           </section>
 
@@ -167,7 +167,7 @@
           </section>
 
           <section>
-            <iframe width="850" height="550" src="https://earthengine.google.com/" frameborder="0" allowfullscreen></iframe>
+            <img style="max-height: 500px;" alt="Google Earth Engine Screenshot" src="./imgs/google_earth_engine.png" />
             <p>
             We are developing support for Google Earth Engine as a Geoweaver host resource.
             </p>
@@ -183,7 +183,7 @@
                   <a href="https://www.esipfed.org/">ESIPFed</a>
                   <img style="width: 100px; margin-top: -10px; margin-left: 10px; margin-right: 10px"src="https://www.esipfed.org/wp-content/uploads/2019/09/esip-logo-uptodate.transparent-background.png"/>
                   <a href="https://sciencegateways.org/">SGCI</a>
-                  <img style="height: 51px; background-color: rgb(60,62,63); margin-top: -10px; margin-left: 10px; margin-right: 10px"src="https://sciencegateways.org/sciencegateways-theme/images/sgci-logos/sgci-new-logo-words-horiz-white.png"/>
+                  <img style="height: 51px; background-color: rgb(60,62,63); margin-top: -10px; margin-left: 10px; margin-right: 10px"src="imgs/sgci-new-logo-words-horiz-white.png"/>
                   <a href="https://earthdata.nasa.gov/">NASA</a>
                   <img style="height: 51px; background-color: rgb(70,113,163); margin-top: -10px; margin-left: 10px;"src="https://earthdata.nasa.gov/img/nasa-logo.png"/>
                 </small>
